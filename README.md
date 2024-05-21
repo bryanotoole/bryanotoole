@@ -1,14 +1,8 @@
 # Hello, I'm Bryan
 <a href="https://linkedin.com/bryanotoole17"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
-## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am an accomplished and credentialed security project and program manager experienced in leading strategic cybersecurity projects to completion, while ensuring alignment with business objectives and maximizing stakeholder value. Proficient in security governance, risk management, and technology solution implementations.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
