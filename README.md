@@ -12,13 +12,11 @@ Connect with me on LinkedIn to learn more about my experience.
 - [Nessus Vulnerability Assessment Lab](https://github.com/projectlink3)
 
 ## Certifications
-- [CISSP](https://github.com/projectlink1)
-<img src="https://img.shields.io/badge/-CISSP-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white"(isc2.org)/>
-<img src="https://img.shields.io/badge/-CISM-FF0000?&style=for-the-badge&logo=ISACA&logoColor=blue)" />
-<img src="https://img.shields.io/badge/-PMP-FF0000?style=for-the-badge&logo=Project%20Management%20Institute&logoColor=blue" />
+- [CISSP](https://www.credly.com/badges/267508aa-db31-4b6e-818d-86739bd004b9/public_url)
+- [CISM](https://www.credly.com/badges/f6059403-c37f-4e99-b145-8b2ee1025b88/public_url)
+- [PMP](https://www.credly.com/badges/67e470e8-02dc-4f9a-83ae-eeaa0d3102b6/public_url)
 
 
-</div>
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -35,12 +33,3 @@ Connect with me on LinkedIn to learn more about my experience.
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
