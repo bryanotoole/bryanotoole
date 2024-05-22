@@ -15,7 +15,7 @@ Connect with me on LinkedIn to learn more about my experience and what I've been
 - [CISSP - Certified Information Systems Security Professional](https://www.credly.com/badges/267508aa-db31-4b6e-818d-86739bd004b9/public_url)
 - [CISM - Certified Information Security Manager](https://www.credly.com/badges/f6059403-c37f-4e99-b145-8b2ee1025b88/public_url)
 - [PMP - Project Management Professional](https://www.credly.com/badges/67e470e8-02dc-4f9a-83ae-eeaa0d3102b6/public_url)
-- [Qualys VMDR - Vulnerability Management Detectionn and Response](https://github.com/bryanotoole/Certifications/blob/main/Qualys%20VDMR%20Cert%205.13.24.pdf)
+- [Qualys VMDR - Vulnerability Management Detection and Response](https://github.com/bryanotoole/Certifications/blob/main/Qualys%20VDMR%20Cert%205.13.24.pdf)
 
 ## Skills
 
