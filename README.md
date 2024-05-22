@@ -7,9 +7,9 @@ Connect with me on LinkedIn to learn more about my experience.
 <a href="https://linkedin.com/bryanotoole17"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Projects
-- [Microsoft Sentinel SIEM Deployment in Azure](https://github.com/projectlink1)
-- [Password Management Solution Deployment in AWS](https://github.com/projectlink2)
-- [Nessus Vulnerability Assessment Lab](https://github.com/projectlink3)
+- [Microsoft Sentinel SIEM Deployment in Azure](https://github.com/bryanotoole/Microsoft-Sentinel-SIEM)
+- [Password Management Solution Deployment in AWS](https://github.com/bryanotoole/Password-Management-Solution-Deployed-in-AWS)
+- [Nessus Vulnerability Assessment Lab](https://github.com/bryanotoole/Nessus-Vulnerability-Assessment-Lab)
 
 ## Certifications
 - [CISSP](https://www.credly.com/badges/267508aa-db31-4b6e-818d-86739bd004b9/public_url)
