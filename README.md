@@ -4,7 +4,7 @@ I am an accomplished and credentialed security project and program manager, expe
 
 Connect with me on LinkedIn to learn more about my experience and what I've been up to!
 
-[LinkedIn: Bryan O'Toole](https://linkedin.com/bryanotoole17)
+[LinkedIn: Bryan O'Toole](https://www.linkedin.com/in/bryanotoole17/)
 
 ## Projects
 - [Microsoft Sentinel SIEM Deployment in Azure](https://github.com/bryanotoole/Microsoft-Sentinel-SIEM)
