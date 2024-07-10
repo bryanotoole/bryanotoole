@@ -11,6 +11,7 @@ Connect with me on LinkedIn to learn more about my experience and what I've been
 - [Password Management Solution Deployment in AWS](https://github.com/bryanotoole/Password-Management-Solution-Deployed-in-AWS)
 - [Nessus Vulnerability Assessment Lab](https://github.com/bryanotoole/Nessus-Vulnerability-Assessment-Lab)
 - [iPod Classic 5.5 Generation Hardware & Software Upgrade](https://github.com/bryanotoole/iPod-Classic-5.5-Generation-Hardware-Upgrade/blob/main/README.md)
+- [Active Directory Lab](https://github.com/bryanotoole/Active-Directory-Lab/blob/main/README.md)
 
 ## Certifications
 - [CISSP - Certified Information Systems Security Professional](https://www.credly.com/badges/267508aa-db31-4b6e-818d-86739bd004b9/public_url)
