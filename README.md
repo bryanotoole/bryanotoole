@@ -12,6 +12,7 @@ Connect with me on LinkedIn to learn more about my experience and what I've been
 - [Nessus Vulnerability Assessment Lab](https://github.com/bryanotoole/Nessus-Vulnerability-Assessment-Lab)
 - [iPod Classic 5.5 Generation Hardware & Software Upgrade](https://github.com/bryanotoole/iPod-Classic-5.5-Generation-Hardware-Upgrade/blob/main/README.md)
 - [Active Directory Lab](https://github.com/bryanotoole/Active-Directory-Lab/blob/main/README.md)
+- [Keylogger Demo](https://github.com/bryanotoole/Keylogger-Demo/blob/main/README.md)
 
 ## Certifications
 - [CISSP - Certified Information Systems Security Professional](https://www.credly.com/badges/267508aa-db31-4b6e-818d-86739bd004b9/public_url)
@@ -24,12 +25,12 @@ Connect with me on LinkedIn to learn more about my experience and what I've been
 
 | Skills                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Threat & Vulnerability Management         | <a href="https://github.com/bryanotoole/Microsoft-Sentinel-SIEM">Microsoft Sentinel SIEM Deployment in Azure</a>, <a href="https://github.com/bryanotoole/Nessus-Vulnerability-Assessment-Lab">Nessus Vulnerability Assessment Lab</a>|
+| Threat & Vulnerability Management         | <a href="https://github.com/bryanotoole/Microsoft-Sentinel-SIEM">Microsoft Sentinel SIEM Deployment in Azure</a>, <a href="https://github.com/bryanotoole/Nessus-Vulnerability-Assessment-Lab">Nessus Vulnerability Assessment Lab</a>, <a href="https://github.com/bryanotoole/Keylogger-Demo/blob/main/README.md">Keylogger Demo</a>|
 | Incident Response | <a href="https://github.com/bryanotoole/Microsoft-Sentinel-SIEM">Microsoft Sentinel SIEM Deployment in Azure</a> |
 | Artificial Intelligence         | <a href="https://github.com/bryanotoole/Microsoft-Sentinel-SIEM">Microsoft Sentinel SIEM Deployment in Azure</a> |
-| Network Security                  | <a href="https://github.com/bryanotoole/Password-Management-Solution-Deployed-in-AWS">Password Management Solution Deployment in AWS</a>|
+| Network Security                  | <a href="https://github.com/bryanotoole/Password-Management-Solution-Deployed-in-AWS">Password Management Solution Deployment in AWS</a>, <a href="https://github.com/bryanotoole/Active-Directory-Lab/blob/main/README.md">Active Directory Lab</a>|
 | Cloud Computing      | <a href="https://github.com/bryanotoole/Microsoft-Sentinel-SIEM">Microsoft Sentinel SIEM Deployment in Azure</a>, <a href="https://github.com/bryanotoole/Password-Management-Solution-Deployed-in-AWS">Password Management Solution Deployment in AWS</a> |
-
+| Hardware | <a href="https://github.com/bryanotoole/iPod-Classic-5.5-Generation-Hardware-Upgrade/blob/main/README.mdM">iPod Classic 5.5 Generation Hardware & Software Upgrade</a>
 
 
 
