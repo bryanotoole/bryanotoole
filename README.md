@@ -13,6 +13,7 @@ Connect with me on LinkedIn to learn more about my experience and what I've been
 - [iPod Classic 5.5 Generation Hardware & Software Upgrade](https://github.com/bryanotoole/iPod-Classic-5.5-Generation-Hardware-Upgrade/blob/main/README.md)
 - [Active Directory Lab](https://github.com/bryanotoole/Active-Directory-Lab/blob/main/README.md)
 - [Keylogger Demo](https://github.com/bryanotoole/Keylogger-Demo/blob/main/README.md)
+- [Ransomware Demo](https://github.com/bryanotoole/Ransomware-Demonstration/blob/main/README.md)
 
 ## Certifications
 - [CISSP - Certified Information Systems Security Professional](https://www.credly.com/badges/267508aa-db31-4b6e-818d-86739bd004b9/public_url)
